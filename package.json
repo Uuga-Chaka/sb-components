@@ -7,7 +7,7 @@
   "main": "dist/index.d.js",
   "homepage": "https://juanpablo.com",
   "repository": {
-    "url": "https://uuga-chaka.github.io/sb-components/",
+    "url": "https://github.com/Uuga-Chaka/sb-components.git",
     "type": "git"
   },
   "peerDependencies": {
